@@ -20,8 +20,6 @@ namespace e_Shift
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new AppLoad());
-
-
         }
     }
 }
