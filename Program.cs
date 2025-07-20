@@ -19,13 +19,7 @@ namespace e_Shift
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //Application.Run(new AdminRegister());
-            //Application.Run(new LoginForm());
-            //Application.Run(new UserRegister());
-            //Application.Run(new AdminDashboard());1
-            //Application.Run(new UsersDashboard());
-            Application.Run(new AdminDashboard());
-            //Application.Run(new AppLoad());
+            Application.Run(new AppLoad());
 
 
         }
